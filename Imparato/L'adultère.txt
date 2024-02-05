@@ -1,0 +1,74 @@
+(3h du matin, le mari attend sa femme dans le salon. Celle-ci entre sur la pointe des pieds, ses chaussures à la main.)
+@Le Mari
+Ha ha!
+@La Femme
+Oh, tu m'as fait peur!
+@Le Mari
+Ha ha!
+@La Femme
+Bah oui "Ha ha!" Qu'est-ce que tu fais dans le salon à cette heure-ci?
+@Le Mari
+Ha ha!
+@La Femme
+Ok, j'adore discuter avec toi, je vais me coucher, moi.
+@Le Mari
+Ah? Parce que tu es fatiguée?
+@La Femme
+Oui, je suis fatiguée, oui. Il est trois heures du matin.
+@Le Mari
+Oui, j'imagine que cela fatigue de se taper Benoît toute la nuit?
+@La Femme
+Aussi.
+@Le Mari
+Tu avoues? Tu m'as trompé?
+@La Femme
+Mais je ne t'ai jamais trompé!
+@Le Mari
+Si, tu viens de me dire que tu t'es tapée Benoît toute la nuit.
+@La Femme
+Oui, mais ce n'est pas pour cela que je t'ai trompé.
+@Le Mari
+Si.
+@La Femme
+Non, ça n'a rien à voir.
+@Le Mari
+Si, cela a à voir. Quand on couche avec quelqu'un d'autre que son mari, cela s'appelle tromper.
+@La Femme
+Ah oui? Et c'est marqué dans quel dictionnaire?
+@Le Mari
+Je ne sais plus, mais c'est forcément marqué quelque part, parce que tout le monde le sait.
+@La Femme
+Tu le sais que tu dis n'importe quoi? Je ne te ferai jamais un truc pareil, enfin!
+@Le Mari
+Mais tu viens de me dire que tu l'as fait, que tu viens de t'envoyer ce veau de Benoît toute la nuit!
+@La Femme
+Mon chéri, ce n'est pas parce que je couche avec quelqu'un d'autre, que je te trompe.
+@Le Mari
+Si, un peu quand même.
+@La Femme
+Non, non, je suis désolée. Il y a dans le mot tromper, une notion de trahison qui dans ce contexte-là est totalement exclue. Enfin, je veux dire, je ne t'ai pas trahi dans le sens où je l'ai fait contre toi. Tu comprends?
+@Le Mari
+Non.
+@La Femme
+C'est con. Je veux dire, je ne pensais pas à toi en le faisant. A mon avis, tu étais même la dernière personne à laquelle je pouvais penser à ce moment-là.
+@Le Mari
+Attends, si je te traite de salope mais sans penser à toi, c'est pas contre toi, c'est ça?
+@La Femme
+Mon chéri, coucher avec Benoît c'est comme aller au yoga ou chez ma psy. C'est un truc intime, que je fais sans toi, qui me fait du bien et dont je ne te parle pas forcément. Je m'occupe de moi, c'est tout.
+@Le Mari
+C'est immoral!
+@La Femme
+Enfin, qu'est ce que cela peut te foutre ce que je fais quand tu n'es pas là? Que je fasse du sexe ou du macramé, cela ne change rien?
+@Le Mari
+Oui enfin, tu ne peux pas tomber enceinte en rentrant du yoga.
+@La Femme
+Mon chéri, tu m'aimes quand je suis épanouie?
+@Le Mari
+Oui.
+@La Femme
+Tu préfères que je sois heureuse pour pouvoir te rendre heureux?
+@Le Mari
+Oui, oui.
+@La Femme
+Alors voilà! Remercie-moi de me rendre heureuse pour prendre soin de notre couple, et viens te coucher. Tu te fais un monde de tout !
+(Ils se prennent par la main et vont dans leur chambre.)

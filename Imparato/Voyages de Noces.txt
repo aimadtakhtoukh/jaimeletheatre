@@ -1,0 +1,142 @@
+(Un homme arrive à la réception dʼun hôtel, et sʼadresse à la réceptionniste.)
+@Réceptionniste
+Bonjour Monsieur, que puis-je faire pour votre service ?
+@Client
+Bonjour, je voudrais une chambre, sʼil vous plaît.
+@Réceptionniste
+Très bien. Un chambre double ou une chambre individuelle ?
+@Client
+Individuelle, ça suffira. Malheureusement...
+@Réceptionniste
+Voyage dʼaffaires, de tourisme...?
+@Client
+Voyage de noces.
+@Réceptionniste
+Pardon...?
+@Client
+Je suis en voyage de noces.
+@Réceptionniste
+Dʼaccord... et donc vous souhaiteriez une chambre individuelle. Une autre pour votre épouse, peut-être... À moins quʼelle ne préfère séjourner dans un autre établissement ?
+@Client
+Ma femme mʼa quitté... juste après la cérémonie.
+@Réceptionniste
+Vous mʼen voyez sincèrement désolée...
+@Client
+Pas autant que moi.
+@Réceptionniste
+Un différend dʼordre domestique, sans doute ? 
+@Client
+Elle est partie avec mon témoin, juste au sortir de la mairie. Je perds à la fois ma femme et mon meilleur ami.
+@Réceptionniste
+Ils finiront peut-être par revenir.
+@Client
+À la fin du voyage de noces, peut-être. Jʼavais réservé un séjour dʼune semaine aux Seychelles. Ils sont partis avec les billets dʼavion.
+(Légère hésitation de la réceptionniste.)
+@Réceptionniste
+Ce nʼest pas une blague, au moins ?
+@Client
+Jʼai la tête de quelquʼun qui plaisante ?
+@Réceptionniste
+À vrai dire, vous auriez plutôt une tête de cocu.
+@Client
+Merci de me remonter le moral.
+@Réceptionniste
+Je prie Monsieur de bien vouloir mʼexcuser. Ça mʼest venu comme ça.
+@Client
+Non, mais vous avez raison. Jʼai une tête de cocu. 
+@Réceptionniste
+Ce nʼest sûrement pas la première fois quʼon vous le dit.
+@Client
+Non. Et là, je viens dʼen avoir la confirmation. 
+@Réceptionniste
+Je compatis, croyez le bien. Et au nom de notre établissement, je vous présente nos plus sincères condoléances.
+@Client
+Merci, mais... je ne suis pas encore veuf, vous savez. Pour lʼinstant, je suis seulement cocu.
+@Réceptionniste
+Bien sûr... Je... Je ne sais pas quoi vous dire... Si je pouvais...
+@Client
+Vous êtes bien aimable.
+@Réceptionniste
+Écoutez, pour adoucir un peu votre douleur, au nom de notre établissement, je peux vous proposer une petite compensation.
+@Client
+Une compensation...? Vous voulez dire...
+@Réceptionniste
+Ne vous emballez pas trop vite... Évidemment, pour votre nuit de noces, jʼimagine que vous auriez préféré avoir une femme dans votre lit. Malheureusement, le règlement de notre établissement nous interdit formellement de...
+@Client
+Bien sûr.
+@Réceptionniste
+Non, je parlais seulement dʼun surclassement.
+@Client
+Un surclassement ?
+@Réceptionniste
+Pour le prix dʼune chambre individuelle classique, je vous propose une chambre supérieure avec balcon, au dernier étage. Cʼest beaucoup plus calme que du côté rue, vous verrez. Ça donne sur le cimetière.
+@Client
+Merci...
+@Réceptionniste
+En général, nos clients sont très satisfaits. En tout cas, personne ne sʼest jamais plaint. Vous avez des bagages ?
+@Client
+Mon témoin est parti avec ma valise. En plus de partir avec ma femme, et nos réservations pour le voyage de noces dans un hôtel de rêve...
+@Réceptionniste
+Comment se fier encore à ses amis après cela...?
+@Client
+En fait... cʼétait plutôt un ami de ma femme.
+@Réceptionniste
+Oui, je mʼen doute. Mais rassurez-vous, vous trouverez tout ce quʼil vous faut dans le distributeur automatique qui se trouve à lʼétage. Brosse à dents, peigne, nécessaire de rasage...
+@Client
+Merci, mais... il y a une dernière petite chose qui me tracasse. Je ne sais pas trop comment vous dire ça...
+@Réceptionniste
+Je vous écoute...
+@Client
+Ma femme a aussi emporté avec elle ma carte de crédit.
+@Réceptionniste
+Je vois...
+@Client
+Et je nʼai pas pensé à retirer du liquide avant la cérémonie. Je ne pouvais pas me douter que...
+(La réceptionniste, commençant visiblement à sʼimpatienter, hésite un instant.)
+@Réceptionniste
+Écoutez, lʼhôtel est presque vide de toute façon. Alors je vous fais cadeau dʼune nuit. Mais demain à la première heure, vous fichez le camp, dʼaccord ?
+@Client
+C’est très aimable à vous, vraiment. Je ne sais pas comment vous remercier...
+(La réceptionniste lui tend une clef.)
+@Réceptionniste
+Tenez, voici votre clef.
+@Client
+Le petit-déjeuner est compris ?
+(La réceptionniste, à bout, préfère ne pas répondre.)
+@Réceptionniste
+Quatrième étage, chambre 69. Il ne me reste plus quʼà vous souhaiter une bonne soirée...
+@Client
+Merci... 
+(Le client sʼapprête à partir, très déprimé.)
+@Réceptionniste
+Vous pouvez toujours regarder la télé, ça vous changera les idées.
+@Client
+Je peux jeter un coup d’œil sur votre programme ?
+@Réceptionniste
+Mais bien sûr.
+(Le client feuillette un magazine télé.)
+@Client
+Ah, « Jʼirai dormir chez vous »... Mon émission préférée. Vous connaissez ?
+@Réceptionniste
+Jʼadore... Cʼest dans quel pays, cette fois ?
+(Le client regarde à nouveau le programme.)
+@Client
+Les Seychelles...
+@Réceptionniste
+Quand ça ne veut pas rigoler. (Elle ouvre un tiroir et en sort une boîte de cachets quʼelle pose sur le comptoir.) Tenez, ce sont des somnifères. Prenez-en deux. 
+@Client
+Je ne sais pas si ça suffira...
+@Réceptionniste
+Eh bien si ça ne suffit pas, prenez toute la boîte.
+@Client
+Dieu vous le rendra. Si je nʼavais pas eu la chance de tomber sur quelquʼun dʼaussi gentil, je ne sais pas où jʼaurais passé la nuit...
+@Réceptionniste
+Sous un pont, probablement.
+@Client
+Cʼest quelquʼun comme vous que jʼaurais dû choisir comme témoin. Vous savez ce quʼon dit. Cʼest dans la difficulté quʼon reconnaît ses amis. 
+@Réceptionniste
+Bien sûr...
+@Client
+Vous voulez bien être mon amie ?
+@Réceptionniste
+Lʼascenseur est par là. Tirez-vous maintenant avant que je change dʼavis...
