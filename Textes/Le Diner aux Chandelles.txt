@@ -1,5 +1,5 @@
 LE DINER AUX CHANDELLES
-Elle est en train de mettre la table et d'allumer des chandelles. On sonne.
+(Elle est en train de mettre la table et d'allumer des chandelles. On sonne.)
 ELLE : J'arrive ! J'arrive !
 Elle ouvre la porte, elle est très nerveuse. Lui plutôt timide.
 ELLE : Salut !

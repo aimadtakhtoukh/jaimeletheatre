@@ -26,9 +26,7 @@ Ah oui ! Alors, par exemple, vous avez chez vous.. Une vieille bouteille de vin.
 @Noémie
 Oui mais pour avoir une vieille bouteille de vin, il faut boire.
 @Jenny
-Pas forcément ! Mais si vous avez un mari qui ne supporte pas la flotte, y'a
-@toujours
-s vieilles bouteilles autour.
+Pas forcément ! Mais si vous avez un mari qui ne supporte pas la flotte, y'a toujours des vieilles bouteilles autour.
 @Noémie
 Ah ben oui. Un mari, ça boit plus.
 @Jenny
@@ -97,8 +95,7 @@ Il s'appelle comment ?
 Il s'appelle plus. Il est mort. Je l'ai fait empailler. Parce que je peux pas m'en séparer.
 @Jenny
 Un chien empaillé, c'est très facile. Avec une bonne ampoule. Il peut éclairer partout.
-@Noémie
-t
+(Noémie rit)
 @Jenny
 Et bien qu'est-ce qu'y s'passe, Noémie ?
 @Noémie

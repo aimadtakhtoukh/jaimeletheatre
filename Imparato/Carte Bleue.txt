@@ -50,9 +50,7 @@ Et qu’est-ce que vous faites d’autre dans la vie ? Puisque ce n’est pas vo
 @Deux
 Là, vous devenez indiscret...
 @Un
-Excusez-moi, vous avez raison. C’est juste que d’habitude... Enfin, je veux dire... Je n’ai pas l’habitude de tomber sur des filles comme vous...
-@Deux
-Vraiment ?
+Excusez-moi, vous avez raison.
 (Son portable sonne.) 
 @Un
 Excusez-moi... Oui ? Comment ça, Emmanuelle ? Mais je suis avec elle justement... Ah... Non, il doit y avoir un malentendu... OK, je vous attends... 
